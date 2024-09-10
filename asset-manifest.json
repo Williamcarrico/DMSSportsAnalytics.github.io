@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DMSSportsAnalytics.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/DMSSportsAnalytics.github.io/static/js/main.c3802ade.js",
+    "static/js/453.e0c54ef3.chunk.js": "/DMSSportsAnalytics.github.io/static/js/453.e0c54ef3.chunk.js",
+    "static/media/logo.svg": "/DMSSportsAnalytics.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DMSSportsAnalytics.github.io/index.html",
+    "main.f855e6bc.css.map": "/DMSSportsAnalytics.github.io/static/css/main.f855e6bc.css.map",
+    "main.c3802ade.js.map": "/DMSSportsAnalytics.github.io/static/js/main.c3802ade.js.map",
+    "453.e0c54ef3.chunk.js.map": "/DMSSportsAnalytics.github.io/static/js/453.e0c54ef3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c3802ade.js"
+  ]
+}
